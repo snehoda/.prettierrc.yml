@@ -1,4 +1,6 @@
 https://www.jetbrains.com/help/idea/prettier.html#ws_prettier_install
+
+Example :https://github.com/hardcorelogo/payday/blob/main/package.json
  
 Can be added to any project to package.json
  
