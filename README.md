@@ -1,5 +1,7 @@
 https://www.jetbrains.com/help/idea/prettier.html#ws_prettier_install
  
+Can be added to any project to package.json
+ 
  "scripts": {
     "cy:open": "cypress open",
     "Lint": "prettier cypress/ --check",
@@ -7,7 +9,7 @@ https://www.jetbrains.com/help/idea/prettier.html#ws_prettier_install
   },
 
 
-
+Next data must be added to .prettierrc.yml
 
 printWidth: 100
 tabWidth: 2
